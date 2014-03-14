@@ -1,0 +1,5 @@
+1.copy 2 file:  Cl_Database_Stub  ,   FactoryServiceImpl_Stu
+ 	vao thu muc
+ DA_TraLoiTracNghiemOline\DA_Client\build\classes
+ DA_TraLoiTracNghiemOline\DA_Server\build\classes
+2.chép vào thu m?c C:\Program Files\Java\jdk1.7.0_45\bin
